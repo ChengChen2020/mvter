@@ -1,0 +1,8 @@
+train_mvter_on_modelnet40/
+rawdata/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pth
+.DS_Store
